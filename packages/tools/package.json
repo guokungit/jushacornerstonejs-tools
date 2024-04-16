@@ -1,6 +1,6 @@
 {
-  "name": "@cornerstonejs/tools",
-  "version": "1.2.8",
+  "name": "@jushacornerstonejs/tools",
+  "version": "0.0.0",
   "description": "Cornerstone3D Tools",
   "main": "dist/umd/index.js",
   "types": "dist/esm/index.d.ts",
@@ -10,6 +10,9 @@
     "dist/",
     "src/"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "test": "test"
   },
