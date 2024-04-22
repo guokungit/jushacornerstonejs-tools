@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.3",
   "packages": [
     "packages/adapters",
     "packages/core",
@@ -7,6 +7,5 @@
     "packages/streaming-image-volume-loader",
     "packages/dicomImageLoader"
   ],
-  "npmClient": "yarn",
-  "useWorkspaces": true
+  "npmClient": "yarn"
 }

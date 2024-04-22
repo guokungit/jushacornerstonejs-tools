@@ -3,12 +3,12 @@
   "compilerOptions": {
     "baseUrl": "./packages",
     "paths": {
-      "@cornerstonejs/streaming-image-volume-loader": [
+      "@jushacornerstonejs/streaming-image-volume-loader": [
         "streaming-image-volume-loader/src"
       ],
-      "@cornerstonejs/core": ["core/src"],
-      "@cornerstonejs/tools": ["tools/src"],
-      "@cornerstonejs/dicomImageLoader": ["dicomImageLoader/src"],
+      "@jushacornerstonejs/core": ["core/src"],
+      "@jushacornerstonejs/tools": ["tools/src"],
+      "@jushacornerstonejs/dicomImageLoader": ["dicomImageLoader/src"],
     }
   }
 }
