@@ -1,4 +1,4 @@
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 import { Synchronizer } from '../store';
 
 export default interface ISynchronizerEventHandler {

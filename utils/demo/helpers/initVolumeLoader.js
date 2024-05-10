@@ -1,4 +1,4 @@
-import { volumeLoader } from '@cornerstonejs/core';
+import { volumeLoader } from '@jushacornerstonejs/core';
 import {
   cornerstoneStreamingImageVolumeLoader,
   cornerstoneStreamingDynamicImageVolumeLoader,

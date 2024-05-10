@@ -1,4 +1,4 @@
-import type { Types } from '@cornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 import { getAllIntersectionsWithPolyline } from './getIntersectionWithPolyline';
 
 export default function pointInPolyline(
