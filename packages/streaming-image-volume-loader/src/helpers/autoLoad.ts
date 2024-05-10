@@ -1,7 +1,7 @@
-import { getRenderingEngines, utilities } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { getRenderingEngines, utilities } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
-//import type { Types } from '@cornerstonejs/core'
+//import type { Types } from '@jushacornerstonejs/core'
 
 type RenderingEngineAndViewportIds = {
   renderingEngine: Types.IRenderingEngine | undefined; //Types.IRenderingEngine | undefined

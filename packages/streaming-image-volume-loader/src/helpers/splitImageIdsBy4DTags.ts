@@ -1,4 +1,4 @@
-import { metaData } from '@cornerstonejs/core';
+import { metaData } from '@jushacornerstonejs/core';
 
 // TODO: add support for other 4D tags as listed below
 // Supported 4D Tags

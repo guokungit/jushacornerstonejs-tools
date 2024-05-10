@@ -7,8 +7,8 @@ import {
   getShouldUseSharedArrayBuffer,
   getConfiguration,
   utilities as csUtils,
-} from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 import { vec3 } from 'gl-matrix';
 import { makeVolumeMetadata, sortImageIdsAndGetSpacing } from './helpers';
 import StreamingImageVolume from './StreamingImageVolume';
