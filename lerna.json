@@ -1,11 +1,11 @@
 {
-  "version": "0.0.3",
-  "packages": [
-    "packages/adapters",
-    "packages/core",
-    "packages/tools",
-    "packages/streaming-image-volume-loader",
-    "packages/dicomImageLoader"
-  ],
-  "npmClient": "yarn"
+    "version": "0.0.4",
+    "packages": [
+        "packages/adapters",
+        "packages/core",
+        "packages/tools",
+        "packages/streaming-image-volume-loader",
+        "packages/dicomImageLoader"
+    ],
+    "npmClient": "yarn"
 }
